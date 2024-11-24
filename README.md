@@ -1,2 +1,2 @@
 # deriv-sin
-Simulation to draw the gradient function of f(x) = sin(x)
+Simulation to find the derivative of the sine function.
